@@ -3,7 +3,6 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Footer from './components/footer/Footer.js'
 import Nav from './components/nav/Nav.js'
-import Error from './components/error/Error.js'
 import Home from './components/home/Home.js'
 import About from './components/about/About.js'
 import Product from './components/product/Product.js'
