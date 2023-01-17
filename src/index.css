@@ -18,6 +18,12 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+#root {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
 :root {
   --bg1: #77aa76;
   --accent1: #1c531a;

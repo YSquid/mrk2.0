@@ -1,8 +1,11 @@
 import React from 'react'
-
+import Logo from '../../assets/Logo.png'
+import './Home.css'
 function Home() {
   return (
-    <div>Home</div>
+    <div className='Home'>
+    <img src={Logo}></img>
+    </div>
   )
 }
 
