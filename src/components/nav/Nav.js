@@ -45,7 +45,7 @@ function Nav() {
             <Link
               to="/product"
               onClick={() => setActiveNav("Product")}
-              className={activeNav === "product" ? "Active" : ""}
+              className={activeNav === "Product" ? "Active" : ""}
             >
               Product
             </Link>

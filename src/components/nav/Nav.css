@@ -44,16 +44,19 @@ nav img {
 
 nav a:link {
     color: var(--accent3);
-    /* text-decoration: underline; */
   }
   
   nav a:visited {
     color: var(--accent2);
-    text-decoration: none;
   }
   
   nav a:hover {
     color: var(--main-text);
+  }
+
+  .Active {
+    text-decoration: underline;
+   font-weight: 600;
   }
 
   @media only screen and (max-width: 850px) {
