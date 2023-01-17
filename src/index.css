@@ -8,6 +8,16 @@
   text-decoration: none;
 }
 
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0px;
+  overflow-x: hidden;
+  font-family: "Roboto", sans-serif;
+}
+
 :root {
   --bg1: #77aa76;
   --accent1: #1c531a;

@@ -1,17 +1,26 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import Logo from "../../assets/Logo.png";
+import { BsTwitter, BsInstagram } from "react-icons/bs";
 import "./Nav.css";
 
 function Nav() {
   const [activeNav, setActiveNav] = useState("Home");
   return (
     <nav className="Nav">
-      <section className="Nav__title">
+      <div className="Nav__title">
         <div className="Nav__img">
           <img src={Logo} alt="Mr. K Premium Resever Logo" />
         </div>
-      </section>
+        <div className="Nav__socials">
+          <a href="https://twitter.com/MrKCBD" target="_blank">
+            <BsTwitter />
+          </a>
+          <a href="https://www.instagram.com/mrkcbd/" target="_blank">
+            <BsInstagram />
+          </a>
+        </div>
+      </div>
       <section className="Nav__links">
         <ul className="Nav__items">
           <li>
@@ -47,7 +56,7 @@ function Nav() {
               onClick={() => setActiveNav("Shop")}
               className={activeNav === "Shop" ? "Active" : ""}
             >
-              Home
+              Shop
             </Link>
           </li>
           <li>
