@@ -16,6 +16,8 @@ body {
   padding: 0px;
   overflow-x: hidden;
   font-family: "Roboto", sans-serif;
+  background-image: radial-gradient(#1c531a 0.001rem, #77aa76 0.05rem);
+  background-size: 0.5rem 0.5rem;
 }
 
 #root {
@@ -31,11 +33,4 @@ body {
   --accent3: #1da1f2;
   --main-text: white;
   --radius: 3rem;
-}
-
-
-body {
-  background-color: #77aa76;
-  background-image: radial-gradient(#1c531a 0.25px, #77aa76 0.25px);
-  background-size: 5px 5px;
 }

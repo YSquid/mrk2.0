@@ -3,4 +3,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 100%;
+    /* background-image: radial-gradient(#1c531a 1px, #77aa76 1px);
+    background-size: 25px 25px; */
 }
+
+.Home img {
+    height: 50%;
+}
+
