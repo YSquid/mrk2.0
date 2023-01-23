@@ -1,0 +1,44 @@
+.Product__container {
+    margin: auto 0;
+    height: fit-content;
+    display: flex;
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.Product {
+    display: flex;
+    max-height: 100vh;
+    width: 90%;
+    background-color: var(--accent1);
+    border-radius: 1rem;
+}
+
+.Product__left {
+    display: flex;
+    align-items: center;
+    max-height: 100%;
+}
+
+.bottle {
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+
+.bottle img {
+    max-height: 60%;
+   }
+
+.logos {
+    max-height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.logos img {
+    height: 6rem;
+    width: auto;
+}
