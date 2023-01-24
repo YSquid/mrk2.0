@@ -6,7 +6,6 @@ function About() {
     <section className="About__container">
       <div className="About">
         <div className="About__text">
-          <h2>About Us</h2>
           <p>
             Mr. K's Premium Reserve is a family run business headquartered in
             Las Cruces, New Mexico.

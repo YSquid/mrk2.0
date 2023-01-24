@@ -2,7 +2,7 @@
   display: inline-flex;
   justify-content: center;
   width: 100%;
-  background-color: var(--accent1);
+  background-color: var(--bg1);
   height: fit-content;
 }
 
@@ -39,14 +39,15 @@ nav img {
 .Nav__items li {
   font-size: 2rem;
   margin: 0.2rem;
+  list-style: none;
 }
 
 nav a:link {
-  color: var(--accent3);
+  color: black;
 }
 
 nav a:visited {
-  color: var(--accent2);
+  color: black;
 }
 
 nav a:hover {

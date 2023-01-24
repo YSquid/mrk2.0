@@ -16,7 +16,7 @@ body {
   padding: 0px;
   overflow-x: hidden;
   font-family: "Roboto", sans-serif;
-  background-image: radial-gradient(#1c531a 0.001rem, #77aa76 0.05rem);
+  background-image: radial-gradient(var(--bg1) 0.001rem, var(--accent1) 0.05rem);
   background-size: 0.5rem 0.5rem;
 }
 

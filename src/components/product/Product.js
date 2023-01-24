@@ -19,7 +19,15 @@ function Product() {
             <img src={NonGMO} />
           </div>
         </div>
-        <div className="Product__details"></div>
+        <div className="Product__details">
+          <h2>Full Sprectrum CBD Tincture</h2>
+          <h3>900mg CBD in 30mL</h3>
+          <h3>Ingredients:</h3>
+          <ul>
+            <li>- Fractionated Coconut Oil (MCT Medium Chain Triglycerides)</li>
+            <li>- CO2 Extracted Full Spectrum Hemp Oil</li>
+          </ul>
+        </div>
       </div>
     </section>
   );
