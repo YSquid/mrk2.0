@@ -73,7 +73,7 @@ h2, h3, li{
   }
 
 @media only screen and (max-width: 500px) {
-
+   
     .Product__details h2 {
         font-size: 1rem;
     }
@@ -84,10 +84,12 @@ h2, h3, li{
 
     .Product__details ul {
         font-size: 0.7rem;
+    } */
+   
+
+     .bottle img {
+        height: 100%;
     }
-    .bottle img {
-        max-height: 40%;
-       }
 
     .logos img {
         height: 4rem;
