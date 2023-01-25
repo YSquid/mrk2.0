@@ -6,7 +6,7 @@ import Nav from './components/nav/Nav.js'
 import Home from './components/home/Home.js'
 import About from './components/about/About.js'
 import Product from './components/product/Product.js'
-import Shop from './components/locations/Shop.js'
+import Shop from './components/shop/Shop.js'
 import Contact from './components/contact/Contact.js'
 
 

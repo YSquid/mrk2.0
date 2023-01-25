@@ -1,0 +1,31 @@
+.Shop__container {
+    height: 100%;
+    display: flex;
+    padding: 1rem;
+}
+
+.Shop {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--bg1);
+    padding: 2rem;
+    max-width: 90%;
+    border-radius: 1rem;
+    flex-wrap: wrap;
+}
+
+.Location__card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+    margin: 1rem;
+    /* outline: 1px solid var(--accent1) */
+}
+.Location__card img{ 
+    border-radius: 1rem;
+    width: 70%;
+    margin-bottom: 1rem;
+}
