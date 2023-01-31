@@ -1,5 +1,5 @@
 .About__container {
-    height: fit-content;
+    height: 100%;
     display: flex;
     padding: 1rem;
 }
