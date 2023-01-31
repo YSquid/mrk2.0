@@ -17,7 +17,7 @@ function Shop() {
     {
       name: "Sassy Grass Juice Bar",
       picture: Sassy,
-      description: "Get our premium CBD at Sassy GRass Juice Bar!",
+      description: "Get our premium CBD at Sassy Grass Juice Bar!",
       location: "3100 W. Pichaco Ave. Las Cruces, NM",
       link: "https://www.facebook.com/SassyGrassJuice/",
       maplink:
