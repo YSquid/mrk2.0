@@ -12,6 +12,7 @@
     background-color: var(--bg1);
     padding: 2rem;
     max-width: 90%;
+    height: fit-content;
     border-radius: 1rem;
     flex-wrap: wrap;
 }
@@ -22,7 +23,7 @@
     align-items: center;
     justify-content: center;
     width: 40%;
-    height: inherit;
+    height: 50%;
     margin: 1rem;
     text-align: center;
     /* outline: 1px solid var(--accent1) */
