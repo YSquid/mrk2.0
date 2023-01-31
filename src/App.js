@@ -8,6 +8,7 @@ import About from './components/about/About.js'
 import Product from './components/product/Product.js'
 import Shop from './components/shop/Shop.js'
 import Contact from './components/contact/Contact.js'
+import Footer from './components/footer/Footer.js'
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         <Route path='/shop' element={<Shop/>}></Route>
         <Route path='/contact' element={<Contact/>}></Route>
       </Routes>
+      <Footer />
     </Router>
   );
 }

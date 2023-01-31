@@ -1,0 +1,10 @@
+footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: var(--bg1);
+    padding: 0.3rem;
+}
+
+.icon {
+    vertical-align: bottom;
+}
