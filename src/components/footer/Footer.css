@@ -3,6 +3,8 @@ footer {
     justify-content: space-around;
     background-color: var(--bg1);
     padding: 0.3rem;
+    position: relative;
+    bottom: 0px;
 }
 
 .icon {

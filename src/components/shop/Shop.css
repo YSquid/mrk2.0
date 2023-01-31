@@ -1,5 +1,5 @@
 .Shop__container {
-    height: 100%;
+    height: fit-content;
     display: flex;
     padding: 1rem;
 }

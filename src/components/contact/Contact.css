@@ -18,3 +18,23 @@
     text-align: center;
     border-radius: 1rem;
 }
+
+@media only screen and (max-width: 500px) {
+    .Contact h2 {
+        font-size: 1.7rem;
+    }
+
+    .Contact h3 {
+        font-size: 1.4rem;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    .Contact h2 {
+        font-size: 1.3rem;
+    }
+
+    .Contact h3 {
+        font-size: 1.2rem;
+    }
+}
