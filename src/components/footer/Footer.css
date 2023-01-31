@@ -3,10 +3,25 @@ footer {
     justify-content: space-around;
     background-color: var(--bg1);
     padding: 0.3rem;
-    position: relative;
     bottom: 0px;
 }
 
 .icon {
     vertical-align: bottom;
+}
+
+footer p {
+    margin: 0 1rem;
+}
+
+@media only screen and (max-width: 600px) {
+    footer p {
+        font-size: 0.8rem;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    footer p {
+        font-size: 0.7rem;
+    }
 }
