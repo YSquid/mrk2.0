@@ -16,8 +16,10 @@ body {
   padding: 0px;
   overflow-x: hidden;
   font-family: "Roboto", sans-serif;
-  background-image: radial-gradient(var(--bg1) 0.001rem, var(--accent1) 0.05rem);
-  background-size: 0.5rem 0.5rem;
+  background-image: url('./assets/mountains.jpg');
+  background-size: cover;
+  /* background-image: radial-gradient(var(--bg1) 0.001rem, var(--accent1) 0.05rem);
+  background-size: 0.5rem 0.5rem; */
 }
 
 #root {
