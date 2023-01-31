@@ -1,6 +1,5 @@
 import React from "react";
 import "./Shop.css";
-import BC from "../../assets/BCsnip.png";
 import Queen from "../../assets/Queen.png";
 import Power from "../../assets/Power.png";
 import Sassy from "../../assets/Sassy.png";
@@ -59,7 +58,7 @@ function Shop() {
               </a>
               <div className="Location__img">
                 <a href={location.link} target="_blank" rel="noreferrer">
-                  <img src={location.picture} />
+                  <img src={location.picture} alt="location logo" />
                 </a>
               </div>
               <h3>{location.description}</h3>

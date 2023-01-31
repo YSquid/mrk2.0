@@ -26,7 +26,6 @@
     height: 50%;
     margin: 1rem;
     text-align: center;
-    /* outline: 1px solid var(--accent1) */
 }
 
 img{
@@ -34,7 +33,6 @@ img{
     height: 100%;
     width: 100%;
     object-fit: contain;
-    /* border-radius: 1rem; */
 }
 
 .Location__img {
@@ -42,3 +40,8 @@ img{
     height: 10rem;
     margin-bottom: 1rem;
 }
+
+a:hover {
+    color: white;
+}
+
