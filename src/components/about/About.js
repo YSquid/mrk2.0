@@ -12,9 +12,7 @@ function About() {
             Las Cruces, New Mexico.
             <br />
             <br />
-            Our mission is to offer high-quality CBD products to the Southern
-            New Mexico Community through partnerships with trusted local
-            vendors.
+            Our mission is to offer high-quality CBD products to our local community through trusted vendors, and to the broader mountain west area through our online store.
             <br />
             <br />
             All of our products are 100% made in The U.S.A, Non-GMO, and shipped
