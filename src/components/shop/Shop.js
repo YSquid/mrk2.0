@@ -11,7 +11,7 @@ function Shop() {
       name: "Buy Online",
       picture: Logo,
       description: "Get our premium CBD online. Free Shipping!",
-      location: "Available for NM, CO, AZ only",
+      location: "Available for AZ, CO, NM, NV only",
       link: "https://mr-ks-premium-reserve-cbd.mybigcommerce.com/cbd/",
     },
     {
