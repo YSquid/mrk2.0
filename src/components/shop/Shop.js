@@ -15,15 +15,6 @@ function Shop() {
       link: "https://mr-ks-premium-reserve-cbd.mybigcommerce.com/cbd/",
     },
     {
-      name: "Sassy Grass Juice Bar",
-      picture: Sassy,
-      description: "Get our premium CBD at Sassy Grass Juice Bar!",
-      location: "3100 W. Pichaco Ave. Las Cruces, NM",
-      link: "https://www.facebook.com/SassyGrassJuice/",
-      maplink:
-        "https://www.google.com/maps/place/3100+W+Picacho+Ave,+Las+Cruces,+NM+88007,+USA/@32.3115453,-106.8179529,17z/data=!3m1!4b1!4m5!3m4!1s0x86de3e09d8e9f08b:0x21760296e4fe7bce!8m2!3d32.3115453!4d-106.8179529",
-    },
-    {
       name: "Queen Bee's Gallery",
       picture: Queen,
       description: "Get our premium CBD at Queen Bee's!",
